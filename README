@@ -1,5 +1,12 @@
 Instruction:
 
+Download  Go https://go.dev/dl/ 
+
+```bash
+go run .
+```
+
+or
 Install exe
 Double click, don't close terminal, minimize it.
 F10 for enable / disable (or right click on blank icon in Tray)
